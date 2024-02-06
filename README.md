@@ -1,2 +1,2 @@
-# Electric-Billing-Sys
+# Electric Billing Sys
 An Electricity Billing System made with Java
